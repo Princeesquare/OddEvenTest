@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEven", "OddEven\OddEven.csproj", "{2BEF12CE-DFD5-4BE4-825E-0F0B8AFBF2EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{5CAC912B-3861-43FB-A39B-BEAB34E9C372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BEF12CE-DFD5-4BE4-825E-0F0B8AFBF2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEF12CE-DFD5-4BE4-825E-0F0B8AFBF2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEF12CE-DFD5-4BE4-825E-0F0B8AFBF2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEF12CE-DFD5-4BE4-825E-0F0B8AFBF2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAC912B-3861-43FB-A39B-BEAB34E9C372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAC912B-3861-43FB-A39B-BEAB34E9C372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAC912B-3861-43FB-A39B-BEAB34E9C372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAC912B-3861-43FB-A39B-BEAB34E9C372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4417D55-06B5-4971-92AA-B1483DCC0E8A}
+	EndGlobalSection
+EndGlobal
