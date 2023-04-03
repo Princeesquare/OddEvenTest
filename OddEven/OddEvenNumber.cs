@@ -41,8 +41,8 @@ namespace OddEven
             }
         
 
-            Console.WriteLine("You have " + even + " even numbers between your min and max values.");
-            Console.WriteLine("You have " + odd + " even numbers between your min and max values.");
+            Console.WriteLine($"You have {even} numbers between your min and max values.");
+            Console.WriteLine($"You have {odd} numbers between your min and max values.");
             Console.WriteLine("You have " + positive + "even numbers between your min and max values.");
         }
     }
